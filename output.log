@@ -1,0 +1,51 @@
+   0/no_op                                              ()
+   1/move_camera                                        (1/minimap [64, 64])
+   2/select_point                                       (6/select_point_act [4]; 0/screen [84, 84])
+   3/select_rect                                        (7/select_add [2]; 0/screen [84, 84]; 2/screen2 [84, 84])
+   4/select_control_group                               (4/control_group_act [5]; 5/control_group_id [10])
+ 453/Stop_quick                                         (3/queued [2])
+ 230/Effect_Spray_screen                                (3/queued [2]; 0/screen [84, 84])
+ 451/Smart_screen                                       (3/queued [2]; 0/screen [84, 84])
+ 264/Harvest_Gather_screen                              (3/queued [2]; 0/screen [84, 84])
+ 452/Smart_minimap                                      (3/queued [2]; 1/minimap [64, 64])
+ 331/Move_screen                                        (3/queued [2]; 0/screen [84, 84])
+ 332/Move_minimap                                       (3/queued [2]; 1/minimap [64, 64])
+ 333/Patrol_screen                                      (3/queued [2]; 0/screen [84, 84])
+ 334/Patrol_minimap                                     (3/queued [2]; 1/minimap [64, 64])
+  12/Attack_screen                                      (3/queued [2]; 0/screen [84, 84])
+  13/Attack_minimap                                     (3/queued [2]; 1/minimap [64, 64])
+ 274/HoldPosition_quick                                 (3/queued [2])
+ 485/Train_Probe_quick                                  (3/queued [2])
+ 343/Rally_Workers_screen                               (3/queued [2]; 0/screen [84, 84])
+ 344/Rally_Workers_minimap                              (3/queued [2]; 1/minimap [64, 64])
+ 168/Cancel_Last_quick                                  (3/queued [2])
+  11/build_queue                                        (11/build_queue_id [10])
+ 269/Harvest_Return_quick                               (3/queued [2])
+  40/Build_Assimilator_screen                           (3/queued [2]; 0/screen [84, 84])
+  70/Build_Pylon_screen                                 (3/queued [2]; 0/screen [84, 84])
+   6/select_idle_worker                                 (10/select_worker [4])
+  55/Build_Forge_screen                                 (3/queued [2]; 0/screen [84, 84])
+  57/Build_Gateway_screen                               (3/queued [2]; 0/screen [84, 84])
+  65/Build_Nexus_screen                                 (3/queued [2]; 0/screen [84, 84])
+ 140/Cancel_quick                                       (3/queued [2])
+ 335/Rally_Units_screen                                 (3/queued [2]; 0/screen [84, 84])
+ 336/Rally_Units_minimap                                (3/queued [2]; 1/minimap [64, 64])
+   5/select_unit                                        (8/select_unit_act [4]; 9/select_unit_id [500])
+  48/Build_CyberneticsCore_screen                       (3/queued [2]; 0/screen [84, 84])
+ 503/Train_Zealot_quick                                 (3/queued [2])
+   7/select_army                                        (7/select_add [2])
+ 457/Train_Adept_quick                                  (3/queued [2])
+ 491/Train_Sentry_quick                                 (3/queued [2])
+ 493/Train_Stalker_quick                                (3/queued [2])
+  82/Build_RoboticsFacility_screen                      (3/queued [2]; 0/screen [84, 84])
+  88/Build_Stargate_screen                              (3/queued [2]; 0/screen [84, 84])
+ 101/Build_TwilightCouncil_screen                       (3/queued [2]; 0/screen [84, 84])
+                     0             1             2             3             4             5             6             7             8             9             10            11            12            13
+[0, 0, 0]  1.065486e-07  1.658634e-07  1.008147e-07  1.103856e-07  1.063803e-07  1.010866e-07  1.236354e-07  1.467142e-07  1.238170e-07  1.689039e-07  1.574579e-07  1.324982e-07  1.369199e-07  1.152136e-07
+[0, 1, 0]  2.513816e-06  1.853722e-06  1.933388e-06  2.544366e-06  1.848214e-06  1.974057e-06  2.405671e-06  2.517536e-06  2.219495e-06  3.216073e-06  2.375207e-06  1.994076e-06  2.125776e-06  2.149856e-06
+[1, 1, 0]  7.794653e-06  7.361222e-06  8.934915e-06  6.486106e-06  6.768033e-06  6.224249e-06  8.190658e-06  6.908974e-06  6.687699e-06  6.689916e-06  6.309230e-06  7.095190e-06  1.088151e-05  1.009664e-05
+[1, 1, 1]  7.050823e-04  6.573244e-04  5.558391e-04  5.444128e-04  4.484016e-04  6.296094e-04  5.685432e-04  5.832228e-04  5.710751e-04  5.796309e-04  5.997870e-04  5.143469e-04  6.943293e-04  5.758209e-04
+[1, 1, 2]  1.250153e-03  1.102360e-03  1.405787e-03  1.590304e-03  1.096546e-03  1.222583e-03  1.253556e-03  1.024960e-03  1.369752e-03  1.891714e-03  1.262337e-03  1.399391e-03  1.501364e-03  1.096814e-03
+[1, 1, 3]  1.506516e-02  1.374560e-02  1.079003e-02  5.741766e-03  7.275624e-03  1.058974e-02  1.402445e-02  1.024910e-02  1.144547e-02  9.250880e-03  1.185998e-02  7.242890e-03  1.287567e-02  1.049546e-02
+[1, 1, 4]  3.855873e-02  3.887578e-02  4.006303e-02  3.933523e-02  5.439477e-02  3.891116e-02  4.571385e-02  4.708760e-02  6.042024e-02  3.780795e-02  5.455348e-02  3.775146e-02  5.793332e-02  3.929609e-02
+Took 118.438 seconds for 3077 steps: 25.980 fps
