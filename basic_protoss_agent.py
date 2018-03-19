@@ -130,6 +130,9 @@ class BasicProtossAgent(base_agent.BaseAgent):
             reward = obs.reward  # if obs.reward is not 0 else 0.2
             self.memory.push(self.previous_state, self.previous_action, reward)
 
+            if os.path.isfile(DATA_FILE + '.gz'):
+                self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+
             self.qlearn.learn(self.memory)
             self.qlearn.q_table.to_pickle(DATA_FILE + '.gz', 'gzip')
             self.previous_action = None
