@@ -130,11 +130,16 @@ class BasicProtossAgent(base_agent.BaseAgent):
             reward = obs.reward  # if obs.reward is not 0 else 0.2
             self.memory.push(self.previous_state, self.previous_action, reward)
 
-            if os.path.isfile(DATA_FILE + '.gz'):
-                self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+            while True:
+                try:
+                    if os.path.isfile(DATA_FILE + '.gz'):
+                        self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
 
-            self.qlearn.learn(self.memory)
-            self.qlearn.q_table.to_pickle(DATA_FILE + '.gz', 'gzip')
+                    self.qlearn.learn(self.memory)
+                    self.qlearn.q_table.to_pickle(DATA_FILE + '.gz', 'gzip')
+                    break
+                except EOFError:
+                    print("EOFError")
             self.previous_action = None
             self.previous_state = None
 
@@ -151,10 +156,15 @@ class BasicProtossAgent(base_agent.BaseAgent):
 
             self.nx_y, self.nx_x = (unit_type == OBJECTS.Nexus).nonzero()
 
-            if os.path.isfile(DATA_FILE + '.gz'):
-                self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+            while True:
+                try:
+                    if os.path.isfile(DATA_FILE + '.gz'):
+                        self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
 
-                print(str(self.qlearn.q_table))
+                        print(str(self.qlearn.q_table))
+                        break
+                except EOFError:
+                    print("EOFError")
 
         if self.previous_action is not None and self.move == 0:
             self.memory.push(self.previous_state, self.previous_action, self.reward)
@@ -358,7 +368,8 @@ class BasicProtossAgent(base_agent.BaseAgent):
 
             if obs.observation['single_select'][0][0] != OBJECTS.Probe \
                     and (
-                    len(obs.observation['multi_select']) != 0 and obs.observation['multi_select'][0][0] != OBJECTS.Probe) \
+                    len(obs.observation['multi_select']) != 0 and obs.observation['multi_select'][0][
+                0] != OBJECTS.Probe) \
                     and _ATTACK_MINIMAP in obs.observation["available_actions"]:
 
                 target_y, target_x = (player_relative == 4).nonzero()
