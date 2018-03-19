@@ -183,6 +183,9 @@ class BasicProtossAgent(base_agent.BaseAgent):
         vespene_y, vespene_x = (unit_type == OBJECTS.VespeneGeyser).nonzero()
         vespene_geyser_count = int(math.ceil(len(vespene_y) / 97))
 
+        assimilator_y,assimilator_x = (unit_type == OBJECTS.Assimilator).nonzero()
+        assimilator_count = int(math.ceil(len(assimilator_y) / 112))
+
         cc_y, _ = (unit_type == OBJECTS.CyberneticsCore).nonzero()
 
         players = Players(obs)
@@ -297,14 +300,14 @@ class BasicProtossAgent(base_agent.BaseAgent):
                         return actions.FunctionCall(_BUILD_GATEWAY, [_NOT_QUEUED, target])
 
             elif _BUILD_ASSIMILATOR in obs.observation['available_actions'] \
-                    and self.smart_action == ACTION_BUILD_ASSIMILATOR:
+                    and self.smart_action == ACTION_BUILD_ASSIMILATOR and assimilator_count < 2:
 
                 target = self.get_random_position(vespene_x, vespene_y)
                 if target is not None:
                     return actions.FunctionCall(_BUILD_ASSIMILATOR, [_NOT_QUEUED, target])
 
             elif FUNCTIONS.Build_CyberneticsCore_screen.id in obs.observation['available_actions'] \
-                    and self.smart_action == ACTION_BUILD_CYBERNETICS_CORE:
+                    and self.smart_action == ACTION_BUILD_CYBERNETICS_CORE and 0 < gw_count:
                 cc_y, cc_x = (unit_type == OBJECTS.CyberneticsCore).nonzero()
                 if not cc_y.any():
 
@@ -332,7 +335,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
                 # print("target" + str(target))
                 return actions.FunctionCall(_SELECT_POINT, [_NOT_QUEUED, target])
 
-        elif self.smart_action == ACTION_TRAIN_ZELOAT or self.smart_action == ACTION_TRAIN_STALKER:
+        elif (self.smart_action == ACTION_TRAIN_ZELOAT or self.smart_action == ACTION_TRAIN_STALKER) and 0 < gw_count:
 
             if self.move == 0 and gw_y.any():
                 self.move = 1
@@ -358,7 +361,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
             if FUNCTIONS.Train_Probe_quick.id in obs.observation['available_actions']:
                 return actions.FunctionCall(FUNCTIONS.Train_Probe_quick.id, [_QUEUED])
 
-        elif self.smart_action == ACTION_ATTACK:
+        elif self.smart_action == ACTION_ATTACK and 0 < players.army_count:
 
             if self.move == 0 and _SELECT_ARMY in obs.observation['available_actions']:
                 self.move = 1
