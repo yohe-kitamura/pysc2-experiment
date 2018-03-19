@@ -60,6 +60,11 @@ class QLearningTable:
             # Q関数を更新
             self.q_table.ix[str(state), action] = self.q_table.ix[str(state), action] + alpha * (
                         reward + total_reward_t - self.q_table.ix[str(state), action])
+
+            # 無効なアクションはTotalに入れない
+            if reward == -999:
+                reward = 0
+
             total_reward_t = total_reward_t + reward  # ステップtより先でもらえた報酬の合計を更新
             # print("state:" + str(state) + ",action:" + str(action) + ",totalReward:" + str(total_reward_t))
 

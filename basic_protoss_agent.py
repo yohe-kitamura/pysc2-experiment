@@ -161,7 +161,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
                     if os.path.isfile(DATA_FILE + '.gz'):
                         self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
 
-                        print(str(self.qlearn.q_table))
+                        # print(str(self.qlearn.q_table))
                         break
                 except EOFError:
                     print("EOFError")
@@ -387,7 +387,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
         if self.smart_action == ACTION_DO_NOTHING:
             return actions.FunctionCall(_NO_OP, [])
 
-        self.reward = -1
+        self.reward = -999
         return actions.FunctionCall(_NO_OP, [])
 
     @staticmethod
