@@ -358,7 +358,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
 
             if obs.observation['single_select'][0][0] != OBJECTS.Probe \
                     and (
-                    len(obs.observation['multi_select']) == 0 or obs.observation['multi_select'][0][0] != OBJECTS.Probe) \
+                    len(obs.observation['multi_select']) != 0 and obs.observation['multi_select'][0][0] != OBJECTS.Probe) \
                     and _ATTACK_MINIMAP in obs.observation["available_actions"]:
 
                 target_y, target_x = (player_relative == 4).nonzero()

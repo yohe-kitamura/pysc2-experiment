@@ -1,0 +1,1965 @@
+C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\absl\flags\_validators.py:359: UserWarning: Flag --map has a non-None default value; therefore, mark_flag_as_required will pass even if flag is not specified in the command line!
+  'command line!' % flag_name)
+I0319 14:13:03.937153 37032 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.954190 33884 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.957168 51644 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.965173 36832 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.968171 37420 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.973174   804 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.976176 17224 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.984185 32980 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.992188 18008 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:03.993192 17332 sc_process.py:148] Connection attempt 0 (running: None)
+I0319 14:13:05.948203 37032 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:05.958209 33884 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:05.974221 36832 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:05.974221 51644 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:05.974221 37420 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:05.978224   804 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:05.989232 32980 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:05.990233 17224 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:06.000240 17332 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:06.005244 18008 sc_process.py:148] Connection attempt 1 (running: None)
+I0319 14:13:07.953654 37032 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:07.959658 33884 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:07.975670 36832 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:07.978672 37420 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:07.979673   804 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:07.985677 51644 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:07.991681 17224 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:08.001688 17332 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:08.005692 32980 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:08.008693 18008 sc_process.py:148] Connection attempt 2 (running: None)
+I0319 14:13:09.959105 37032 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:09.963109 33884 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:09.983123 36832 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:09.987126   804 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:09.989128 51644 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:09.992129 17224 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:09.997133 37420 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:10.006141 32980 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:10.009142 17332 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:10.017148 18008 sc_process.py:148] Connection attempt 3 (running: None)
+I0319 14:13:11.962556 37032 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:11.964557 33884 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:11.985573 36832 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:11.992577 51644 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:11.993578   804 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:11.993578 17224 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:12.005587 37420 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:12.007588 32980 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:12.011592 17332 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:12.019597 18008 sc_process.py:148] Connection attempt 4 (running: None)
+I0319 14:13:13.965694 37032 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:13.967195 33884 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:13.989711 36832 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:13.995215 17224 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:13.995215   804 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:14.000719 51644 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:14.008225 32980 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:14.008225 37420 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:14.015230 17332 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:14.021735 18008 sc_process.py:148] Connection attempt 5 (running: None)
+I0319 14:13:24.798605 37420 sc2_env.py:200] Environment is ready.
+I0319 14:13:24.801107 37420 sc2_env.py:240] Starting episode: 1
+I0319 14:13:25.392535   804 sc2_env.py:200] Environment is ready.
+I0319 14:13:25.396538   804 sc2_env.py:240] Starting episode: 1
+I0319 14:13:25.667248 33884 sc2_env.py:200] Environment is ready.
+I0319 14:13:25.672753 33884 sc2_env.py:240] Starting episode: 1
+I0319 14:13:25.705276 51644 sc2_env.py:200] Environment is ready.
+I0319 14:13:25.715284 51644 sc2_env.py:240] Starting episode: 1
+I0319 14:13:25.780831 37032 sc2_env.py:200] Environment is ready.
+I0319 14:13:25.796355 37032 sc2_env.py:240] Starting episode: 1
+I0319 14:13:25.834882 18008 sc2_env.py:200] Environment is ready.
+I0319 14:13:25.837884 18008 sc2_env.py:240] Starting episode: 1
+I0319 14:13:25.856398 17332 sc2_env.py:200] Environment is ready.
+I0319 14:13:25.889923 17332 sc2_env.py:240] Starting episode: 1
+I0319 14:13:26.266714 17224 sc2_env.py:200] Environment is ready.
+I0319 14:13:26.285728 17224 sc2_env.py:240] Starting episode: 1
+I0319 14:13:26.649511 32980 sc2_env.py:200] Environment is ready.
+I0319 14:13:26.663523 32980 sc2_env.py:240] Starting episode: 1
+I0319 14:13:26.793615 36832 sc2_env.py:200] Environment is ready.
+I0319 14:13:26.796617 36832 sc2_env.py:240] Starting episode: 1
+I0319 14:14:21.702858 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5079]
+I0319 14:14:23.213460 37032 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5433]
+I0319 14:14:23.504170 37420 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5656]
+I0319 14:14:23.509174 37420 sc2_env.py:327] Environment Close
+I0319 14:14:23.509674 37420 sc2_env.py:342] 
+Exception in thread Thread-5:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 134, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:14:23.534192 37420 sc2_env.py:327] Environment Close
+I0319 14:14:23.534192 37420 sc2_env.py:342] 
+I0319 14:14:23.534692 37420 sc2_env.py:327] Environment Close
+I0319 14:14:23.534692 37420 sc2_env.py:342] 
+W0319 14:14:26.644659 37420 sc_process.py:183] Killing the process.
+I0319 14:14:26.802772 37420 sc_process.py:166] Shutdown with return code: 1
+I0319 14:14:27.308179 17332 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6618]
+I0319 14:14:28.638227 33884 sc2_env.py:240] Starting episode: 2
+I0319 14:14:29.972064 37032 sc2_env.py:240] Starting episode: 2
+I0319 14:14:33.547679 17332 sc2_env.py:240] Starting episode: 2
+I0319 14:14:37.617256 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4941]
+I0319 14:14:38.233702 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4366]
+I0319 14:14:38.904688 18008 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6031]
+I0319 14:14:44.566531 32980 sc2_env.py:240] Starting episode: 2
+I0319 14:14:45.109455 36832 sc2_env.py:240] Starting episode: 2
+I0319 14:14:45.697882 18008 sc2_env.py:240] Starting episode: 2
+I0319 14:15:09.310948 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5488]
+I0319 14:15:11.683679 17332 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5095]
+I0319 14:15:16.091547 33884 sc2_env.py:240] Starting episode: 3
+I0319 14:15:17.383051 37032 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5695]
+I0319 14:15:18.338737 17332 sc2_env.py:240] Starting episode: 3
+I0319 14:15:23.993713 37032 sc2_env.py:240] Starting episode: 3
+I0319 14:15:25.569376 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3790]
+I0319 14:15:30.625627 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4244]
+I0319 14:15:32.302853 51644 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10236]
+I0319 14:15:32.877269 17224 sc2_env.py:240] Starting episode: 2
+I0319 14:15:37.122961 36832 sc2_env.py:240] Starting episode: 3
+I0319 14:15:39.168616 51644 sc2_env.py:240] Starting episode: 2
+I0319 14:15:42.898920   804 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [11871]
+I0319 14:15:46.597674 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3103]
+I0319 14:15:50.065352   804 sc2_env.py:240] Starting episode: 2
+I0319 14:15:53.041683 32980 sc2_env.py:240] Starting episode: 3
+I0319 14:15:57.231306 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4908]
+I0319 14:16:04.011563 33884 sc2_env.py:240] Starting episode: 4
+I0319 14:16:18.804240 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5017]
+I0319 14:16:24.129560 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5200]
+I0319 14:16:25.508167 36832 sc2_env.py:240] Starting episode: 4
+I0319 14:16:26.774739   804 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4864]
+I0319 14:16:30.885787 51644 sc2_env.py:240] Starting episode: 3
+I0319 14:16:33.322672   804 sc2_env.py:240] Starting episode: 3
+I0319 14:16:52.338363 18008 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [8864]
+I0319 14:16:58.715308 32980 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10536]
+I0319 14:16:59.265206 18008 sc2_env.py:240] Starting episode: 3
+I0319 14:17:03.696107 37032 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5253]
+I0319 14:17:05.437025 32980 sc2_env.py:240] Starting episode: 4
+I0319 14:17:10.491636 37032 sc2_env.py:240] Starting episode: 4
+I0319 14:17:12.848547 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4066]
+I0319 14:17:13.615123 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5658]
+I0319 14:17:19.667002 36832 sc2_env.py:240] Starting episode: 5
+I0319 14:17:20.437614 33884 sc2_env.py:240] Starting episode: 5
+I0319 14:17:33.782222   804 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4615]
+I0319 14:17:33.946340 17332 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [8777]
+I0319 14:17:33.978864 17332 sc2_env.py:327] Environment Close
+I0319 14:17:33.978864 17332 sc2_env.py:342] 
+Exception in thread Thread-6:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 134, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:17:33.980865 17332 sc2_env.py:327] Environment Close
+I0319 14:17:33.980865 17332 sc2_env.py:342] 
+I0319 14:17:33.980865 17332 sc2_env.py:327] Environment Close
+I0319 14:17:33.981366 17332 sc2_env.py:342] 
+I0319 14:17:34.382657 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6964]
+W0319 14:17:37.096962 17332 sc_process.py:183] Killing the process.
+I0319 14:17:37.313132 17332 sc_process.py:166] Shutdown with return code: 1
+I0319 14:17:40.343325   804 sc2_env.py:240] Starting episode: 4
+I0319 14:17:41.156956 17224 sc2_env.py:240] Starting episode: 3
+I0319 14:17:44.010709 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5381]
+I0319 14:17:50.485185 32980 sc2_env.py:240] Starting episode: 5
+I0319 14:17:53.630561 18008 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5360]
+I0319 14:18:00.047568 18008 sc2_env.py:240] Starting episode: 4
+I0319 14:18:05.145869 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6380]
+I0319 14:18:09.854948 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6169]
+I0319 14:18:11.589714 36832 sc2_env.py:240] Starting episode: 6
+I0319 14:18:16.212474 33884 sc2_env.py:240] Starting episode: 6
+I0319 14:18:20.787872   804 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5331]
+I0319 14:18:24.953938 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4111]
+I0319 14:18:27.252309   804 sc2_env.py:240] Starting episode: 5
+I0319 14:18:31.023676 17224 sc2_env.py:240] Starting episode: 4
+I0319 14:18:35.719728 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8041]
+I0319 14:18:42.463575 51644 sc2_env.py:240] Starting episode: 4
+I0319 14:18:57.436434 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6468]
+I0319 14:18:57.889762 32980 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8794]
+I0319 14:19:04.026071 33884 sc2_env.py:240] Starting episode: 7
+I0319 14:19:04.492912 32980 sc2_env.py:240] Starting episode: 6
+I0319 14:19:07.983200 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5415]
+I0319 14:19:14.557537 36832 sc2_env.py:240] Starting episode: 7
+I0319 14:19:17.421234 18008 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8904]
+I0319 14:19:17.538818 37032 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4549]
+I0319 14:19:17.628411 37032 sc2_env.py:327] Environment Close
+I0319 14:19:17.628883 37032 sc2_env.py:342] 
+Exception in thread Thread-2:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 276, in read
+    return self._buffer.read(size)
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 482, in read
+    raise EOFError("Compressed file ended before the "
+EOFError: Compressed file ended before the end-of-stream marker was reached
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 134, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:19:17.635889 37032 sc2_env.py:327] Environment Close
+I0319 14:19:17.635889 37032 sc2_env.py:342] 
+I0319 14:19:17.636389 37032 sc2_env.py:327] Environment Close
+I0319 14:19:17.636389 37032 sc2_env.py:342] 
+W0319 14:19:20.741995 37032 sc_process.py:183] Killing the process.
+I0319 14:19:20.900700 37032 sc_process.py:166] Shutdown with return code: 1
+I0319 14:19:24.022100 18008 sc2_env.py:240] Starting episode: 5
+I0319 14:19:28.559628 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2192]
+I0319 14:19:34.824354 51644 sc2_env.py:240] Starting episode: 5
+I0319 14:19:51.352169 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4246]
+I0319 14:19:54.015629   804 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8697]
+I0319 14:19:54.086682 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4500]
+I0319 14:19:55.631299 18008 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4410]
+I0319 14:19:57.646211 33884 sc2_env.py:240] Starting episode: 8
+I0319 14:20:00.276723   804 sc2_env.py:240] Starting episode: 6
+I0319 14:20:00.328761 36832 sc2_env.py:240] Starting episode: 8
+I0319 14:20:01.482137 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4092]
+I0319 14:20:01.679005 18008 sc2_env.py:240] Starting episode: 6
+I0319 14:20:02.864835 18008 sc2_env.py:327] Environment Close
+I0319 14:20:02.865335 18008 sc2_env.py:342] 
+Exception in thread Thread-3:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 276, in read
+    return self._buffer.read(size)
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 482, in read
+    raise EOFError("Compressed file ended before the "
+EOFError: Compressed file ended before the end-of-stream marker was reached
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 155, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:20:02.870337 18008 sc2_env.py:327] Environment Close
+I0319 14:20:02.870839 18008 sc2_env.py:342] 
+I0319 14:20:02.870839 18008 sc2_env.py:327] Environment Close
+I0319 14:20:02.870839 18008 sc2_env.py:342] 
+W0319 14:20:05.979732 18008 sc_process.py:183] Killing the process.
+I0319 14:20:06.153859 18008 sc_process.py:166] Shutdown with return code: 1
+I0319 14:20:08.691767 32980 sc2_env.py:240] Starting episode: 7
+I0319 14:20:17.643359 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4883]
+I0319 14:20:23.926372 51644 sc2_env.py:240] Starting episode: 6
+I0319 14:20:31.435856 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [4828]
+I0319 14:20:35.413354   804 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5827]
+I0319 14:20:37.755128 17224 sc2_env.py:240] Starting episode: 5
+I0319 14:20:39.726187 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5557]
+I0319 14:20:41.181254   804 sc2_env.py:240] Starting episode: 7
+I0319 14:20:45.701615 36832 sc2_env.py:240] Starting episode: 9
+I0319 14:20:50.685443 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5591]
+I0319 14:20:53.341473 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3457]
+I0319 14:20:56.146113 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5259]
+I0319 14:20:56.820101 32980 sc2_env.py:240] Starting episode: 8
+I0319 14:20:59.279370 33884 sc2_env.py:240] Starting episode: 9
+I0319 14:21:01.824823 51644 sc2_env.py:240] Starting episode: 7
+I0319 14:21:19.181551 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6745]
+I0319 14:21:25.228848 17224 sc2_env.py:240] Starting episode: 6
+I0319 14:21:32.139736 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5629]
+I0319 14:21:33.545268   804 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5425]
+I0319 14:21:38.313635 33884 sc2_env.py:240] Starting episode: 10
+I0319 14:21:39.716144   804 sc2_env.py:240] Starting episode: 8
+I0319 14:21:43.348786 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6777]
+I0319 14:21:45.683012 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6794]
+I0319 14:21:49.454376 36832 sc2_env.py:240] Starting episode: 10
+I0319 14:21:51.818740 51644 sc2_env.py:240] Starting episode: 8
+I0319 14:21:54.572329 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3781]
+I0319 14:22:00.746880 32980 sc2_env.py:240] Starting episode: 9
+I0319 14:22:06.395736 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7111]
+I0319 14:22:12.459242 17224 sc2_env.py:240] Starting episode: 7
+I0319 14:22:32.896105   804 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4503]
+I0319 14:22:32.959649 36832 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6224]
+I0319 14:22:33.082239 36832 sc2_env.py:327] Environment Close
+I0319 14:22:33.082239 36832 sc2_env.py:342] 
+Exception in thread Thread-8:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 276, in read
+    return self._buffer.read(size)
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 482, in read
+    raise EOFError("Compressed file ended before the "
+EOFError: Compressed file ended before the end-of-stream marker was reached
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 134, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:22:33.083239 36832 sc2_env.py:327] Environment Close
+I0319 14:22:33.083740 36832 sc2_env.py:342] 
+I0319 14:22:33.083740 36832 sc2_env.py:327] Environment Close
+I0319 14:22:33.083740 36832 sc2_env.py:342] 
+I0319 14:22:34.788507 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6818]
+W0319 14:22:36.195526 36832 sc_process.py:183] Killing the process.
+I0319 14:22:36.344133 36832 sc_process.py:166] Shutdown with return code: 1
+I0319 14:22:37.075757 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4603]
+I0319 14:22:38.848666   804 sc2_env.py:240] Starting episode: 9
+I0319 14:22:40.829635 33884 sc2_env.py:240] Starting episode: 11
+I0319 14:22:42.937099 51644 sc2_env.py:240] Starting episode: 9
+I0319 14:22:53.801316 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4737]
+I0319 14:22:59.963917 17224 sc2_env.py:240] Starting episode: 8
+I0319 14:23:20.084461   804 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2979]
+I0319 14:23:25.923569   804 sc2_env.py:240] Starting episode: 10
+I0319 14:23:25.981612 33884 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2636]
+I0319 14:23:26.119754   804 sc2_env.py:327] Environment Close
+I0319 14:23:26.120230   804 sc2_env.py:342] 
+Exception in thread Thread-4:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 276, in read
+    return self._buffer.read(size)
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\gzip.py", line 482, in read
+    raise EOFError("Compressed file ended before the "
+EOFError: Compressed file ended before the end-of-stream marker was reached
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 155, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:23:26.122758   804 sc2_env.py:327] Environment Close
+I0319 14:23:26.123259   804 sc2_env.py:342] 
+I0319 14:23:26.123259   804 sc2_env.py:327] Environment Close
+I0319 14:23:26.123259   804 sc2_env.py:342] 
+W0319 14:23:29.233463   804 sc_process.py:183] Killing the process.
+I0319 14:23:29.399618   804 sc_process.py:166] Shutdown with return code: 1
+I0319 14:23:31.702273 33884 sc2_env.py:240] Starting episode: 12
+I0319 14:23:38.750088 32980 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [7603]
+I0319 14:23:44.534337 32980 sc2_env.py:240] Starting episode: 10
+I0319 14:23:49.099947 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5291]
+I0319 14:23:55.295717 51644 sc2_env.py:240] Starting episode: 10
+I0319 14:24:06.432456 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5320]
+I0319 14:24:12.423813 33884 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8324]
+I0319 14:24:13.162431 17224 sc2_env.py:240] Starting episode: 9
+I0319 14:24:19.698288 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6121]
+I0319 14:24:19.802864 33884 sc2_env.py:240] Starting episode: 13
+I0319 14:24:19.913760 33884 sc2_env.py:327] Environment Close
+I0319 14:24:19.913760 33884 sc2_env.py:342] 
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 155, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:24:19.914761 33884 sc2_env.py:327] Environment Close
+I0319 14:24:19.915261 33884 sc2_env.py:342] 
+I0319 14:24:19.915261 33884 sc2_env.py:327] Environment Close
+I0319 14:24:19.915261 33884 sc2_env.py:342] 
+W0319 14:24:23.028594 33884 sc_process.py:183] Killing the process.
+I0319 14:24:23.215273 33884 sc_process.py:166] Shutdown with return code: 1
+I0319 14:24:25.872349 32980 sc2_env.py:240] Starting episode: 11
+I0319 14:24:37.987297 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3972]
+I0319 14:24:43.955990 51644 sc2_env.py:240] Starting episode: 11
+I0319 14:24:47.219048 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5945]
+I0319 14:24:52.817084 17224 sc2_env.py:240] Starting episode: 10
+I0319 14:24:54.991848 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4847]
+I0319 14:25:00.645289 32980 sc2_env.py:240] Starting episode: 12
+I0319 14:25:06.878339 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5610]
+I0319 14:25:12.439185 51644 sc2_env.py:240] Starting episode: 12
+I0319 14:25:24.541364 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3810]
+I0319 14:25:30.181945 17224 sc2_env.py:240] Starting episode: 11
+I0319 14:25:47.478696 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3903]
+I0319 14:25:53.028948 51644 sc2_env.py:240] Starting episode: 13
+I0319 14:26:04.964391 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5169]
+I0319 14:26:07.845693 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [1876]
+I0319 14:26:10.474786 17224 sc2_env.py:240] Starting episode: 12
+I0319 14:26:13.514152 32980 sc2_env.py:240] Starting episode: 13
+I0319 14:26:26.593573 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7078]
+I0319 14:26:32.244823 51644 sc2_env.py:240] Starting episode: 14
+I0319 14:26:44.880907 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3372]
+I0319 14:26:45.476454 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4087]
+I0319 14:26:50.481161 32980 sc2_env.py:240] Starting episode: 14
+I0319 14:26:51.057203 17224 sc2_env.py:240] Starting episode: 13
+I0319 14:27:17.399121 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5353]
+I0319 14:27:23.102891 51644 sc2_env.py:240] Starting episode: 15
+I0319 14:27:32.309665 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2923]
+I0319 14:27:37.911864 32980 sc2_env.py:240] Starting episode: 15
+I0319 14:28:01.515717 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4503]
+I0319 14:28:04.357377 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2706]
+I0319 14:28:07.062707 51644 sc2_env.py:240] Starting episode: 16
+I0319 14:28:09.982060 17224 sc2_env.py:240] Starting episode: 14
+I0319 14:28:25.296542 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2173]
+I0319 14:28:30.942177 32980 sc2_env.py:240] Starting episode: 16
+I0319 14:28:40.793642 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5431]
+I0319 14:28:42.607513 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5963]
+I0319 14:28:46.398791 51644 sc2_env.py:240] Starting episode: 17
+I0319 14:28:48.296180 17224 sc2_env.py:240] Starting episode: 15
+I0319 14:29:04.856485 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4000]
+I0319 14:29:10.430026 32980 sc2_env.py:240] Starting episode: 17
+I0319 14:29:15.852031 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5129]
+I0319 14:29:21.530819 51644 sc2_env.py:240] Starting episode: 18
+I0319 14:30:06.576779 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [7510]
+I0319 14:30:12.379024 17224 sc2_env.py:240] Starting episode: 16
+I0319 14:30:16.829673 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [529]
+I0319 14:30:22.618884 32980 sc2_env.py:240] Starting episode: 18
+I0319 14:30:32.551563 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6540]
+I0319 14:30:38.483618 51644 sc2_env.py:240] Starting episode: 19
+I0319 14:30:44.935273 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3833]
+I0319 14:30:48.052034 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5632]
+I0319 14:30:50.454698 17224 sc2_env.py:240] Starting episode: 17
+I0319 14:30:53.662530 32980 sc2_env.py:240] Starting episode: 19
+I0319 14:31:11.596376 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6062]
+I0319 14:31:14.982500 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5040]
+I0319 14:31:17.239149 51644 sc2_env.py:240] Starting episode: 20
+I0319 14:31:20.515318 17224 sc2_env.py:240] Starting episode: 18
+I0319 14:31:48.538865 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5328]
+I0319 14:31:54.158581 51644 sc2_env.py:240] Starting episode: 21
+I0319 14:32:17.168490 32980 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [7984]
+I0319 14:32:21.112986 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5523]
+I0319 14:32:23.014467 32980 sc2_env.py:240] Starting episode: 20
+I0319 14:32:26.573239 51644 sc2_env.py:240] Starting episode: 22
+I0319 14:32:36.318097 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [5418]
+I0319 14:32:42.239577 17224 sc2_env.py:240] Starting episode: 19
+I0319 14:33:02.194268 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6472]
+I0319 14:33:04.334429 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3295]
+I0319 14:33:07.828065 51644 sc2_env.py:240] Starting episode: 23
+I0319 14:33:09.898817 17224 sc2_env.py:240] Starting episode: 20
+I0319 14:33:17.460299 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3368]
+I0319 14:33:23.141306 32980 sc2_env.py:240] Starting episode: 21
+I0319 14:33:43.489721 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6277]
+I0319 14:33:49.108209 51644 sc2_env.py:240] Starting episode: 24
+I0319 14:34:18.807797 32980 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [13031]
+I0319 14:34:24.541467 32980 sc2_env.py:240] Starting episode: 22
+I0319 14:34:28.274379 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [7864]
+I0319 14:34:34.172206 17224 sc2_env.py:240] Starting episode: 21
+I0319 14:34:51.121556 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2600]
+I0319 14:34:56.853600 51644 sc2_env.py:240] Starting episode: 25
+I0319 14:35:04.589893 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4507]
+I0319 14:35:10.245775 17224 sc2_env.py:240] Starting episode: 22
+I0319 14:35:24.757934 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5148]
+I0319 14:35:30.327977 51644 sc2_env.py:240] Starting episode: 26
+I0319 14:35:35.551318 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4250]
+I0319 14:35:41.224080 32980 sc2_env.py:240] Starting episode: 23
+I0319 14:35:43.235985 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4258]
+I0319 14:35:48.861789 17224 sc2_env.py:240] Starting episode: 23
+I0319 14:36:31.055666 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10082]
+I0319 14:36:36.690134 17224 sc2_env.py:240] Starting episode: 24
+I0319 14:36:42.522044 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5950]
+I0319 14:36:48.250867 32980 sc2_env.py:240] Starting episode: 24
+I0319 14:36:50.865940 51644 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [9593]
+I0319 14:36:56.661441 51644 sc2_env.py:240] Starting episode: 27
+I0319 14:37:07.467691 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7298]
+I0319 14:37:12.062509 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3244]
+I0319 14:37:13.068342 17224 sc2_env.py:240] Starting episode: 25
+I0319 14:37:17.692511 32980 sc2_env.py:240] Starting episode: 25
+I0319 14:37:23.473076 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5904]
+I0319 14:37:28.967215 51644 sc2_env.py:240] Starting episode: 28
+I0319 14:37:43.498599 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5695]
+I0319 14:37:49.113785 17224 sc2_env.py:240] Starting episode: 26
+I0319 14:37:55.502635 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6071]
+I0319 14:38:01.139702 51644 sc2_env.py:240] Starting episode: 29
+I0319 14:38:06.487731 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3353]
+I0319 14:38:12.180023 32980 sc2_env.py:240] Starting episode: 26
+I0319 14:38:29.524945 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6032]
+I0319 14:38:35.063441 51644 sc2_env.py:240] Starting episode: 30
+I0319 14:39:01.594302 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7183]
+I0319 14:39:07.252484 32980 sc2_env.py:240] Starting episode: 27
+I0319 14:39:15.150581 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3541]
+I0319 14:39:21.062945 17224 sc2_env.py:240] Starting episode: 27
+I0319 14:39:39.861852 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4317]
+I0319 14:39:45.526793 32980 sc2_env.py:240] Starting episode: 28
+I0319 14:39:49.932430 51644 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [9262]
+I0319 14:39:54.747662 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3803]
+I0319 14:39:55.747421 51644 sc2_env.py:240] Starting episode: 31
+I0319 14:40:00.424228 17224 sc2_env.py:240] Starting episode: 28
+I0319 14:40:23.240841 51644 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4360]
+I0319 14:40:26.261028 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4325]
+I0319 14:40:28.815628 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6361]
+I0319 14:40:28.891681 51644 sc2_env.py:240] Starting episode: 32
+I0319 14:40:29.013269 51644 sc2_env.py:327] Environment Close
+I0319 14:40:29.013269 51644 sc2_env.py:342] 
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "agent.py", line 96, in <module>
+    app.run(main)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\absl\app.py", line 274, in run
+    _run_main(main, argv)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\absl\app.py", line 238, in _run_main
+    sys.exit(main(argv))
+  File "agent.py", line 82, in main
+    run_thread(agent_cls, FLAGS.map, FLAGS.render)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 155, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+I0319 14:40:32.130212 32980 sc2_env.py:240] Starting episode: 29
+I0319 14:40:34.715015 17224 sc2_env.py:240] Starting episode: 29
+I0319 14:41:19.920334 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4654]
+I0319 14:41:25.953219 17224 sc2_env.py:240] Starting episode: 30
+I0319 14:41:49.077600 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5990]
+I0319 14:41:55.207960 32980 sc2_env.py:240] Starting episode: 30
+I0319 14:42:02.863658 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4571]
+I0319 14:42:08.766711 17224 sc2_env.py:240] Starting episode: 31
+I0319 14:42:48.037448 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3495]
+I0319 14:42:54.008376 17224 sc2_env.py:240] Starting episode: 32
+I0319 14:43:12.068638 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [776]
+I0319 14:43:18.209956 32980 sc2_env.py:240] Starting episode: 31
+I0319 14:43:28.563529 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6212]
+I0319 14:43:34.471008 17224 sc2_env.py:240] Starting episode: 33
+I0319 14:44:38.505646 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5867]
+I0319 14:44:44.583528 32980 sc2_env.py:240] Starting episode: 32
+I0319 14:45:05.254357 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7667]
+I0319 14:45:11.481438 17224 sc2_env.py:240] Starting episode: 34
+I0319 14:46:09.921883 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6239]
+I0319 14:46:14.472709 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [9908]
+I0319 14:46:15.928975 32980 sc2_env.py:240] Starting episode: 33
+I0319 14:46:20.394232 17224 sc2_env.py:240] Starting episode: 35
+I0319 14:46:59.457482 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4758]
+I0319 14:47:05.431800 17224 sc2_env.py:240] Starting episode: 36
+I0319 14:47:25.822682 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4151]
+I0319 14:47:31.953945 32980 sc2_env.py:240] Starting episode: 34
+I0319 14:47:38.098884 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4505]
+I0319 14:47:43.928850 17224 sc2_env.py:240] Starting episode: 37
+I0319 14:48:13.335296 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5745]
+I0319 14:48:19.559420 32980 sc2_env.py:240] Starting episode: 35
+I0319 14:49:05.774335 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10790]
+I0319 14:49:11.784248 17224 sc2_env.py:240] Starting episode: 38
+I0319 14:49:41.368463 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4800]
+I0319 14:49:41.465060 32980 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5833]
+I0319 14:49:41.486078 32980 sc2_env.py:327] Environment Close
+I0319 14:49:41.486078 32980 sc2_env.py:342] 
+Exception in thread Thread-7:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 110, in read_pickle
+    return try_read(path)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in try_read
+    return read_wrapper(lambda f: pkl.load(f))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 99, in <lambda>
+    return read_wrapper(lambda f: pkl.load(f))
+EOFError: Ran out of input
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 104, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=False))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in run_loop
+    for agent, timestep in zip(agents, timesteps)]
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 41, in <listcomp>
+    for agent, timestep in zip(agents, timesteps)]
+  File "D:\dev\git\pysc2-experiment\basic_protoss_agent.py", line 134, in step
+    self.qlearn.q_table = pd.read_pickle(DATA_FILE + '.gz', compression='gzip')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 113, in read_pickle
+    return try_read(path, encoding='latin1')
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in try_read
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 84, in read_wrapper
+    return func(f)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\io\pickle.py", line 108, in <lambda>
+    lambda f: pc.load(f, encoding=encoding, compat=True))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pandas\compat\pickle_compat.py", line 194, in load
+    return up.load()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\pickle.py", line 1048, in load
+    raise EOFError
+EOFError
+
+I0319 14:49:41.488576 32980 sc2_env.py:327] Environment Close
+I0319 14:49:41.489076 32980 sc2_env.py:342] 
+I0319 14:49:41.489076 32980 sc2_env.py:327] Environment Close
+I0319 14:49:41.489076 32980 sc2_env.py:342] 
+W0319 14:49:44.605089 32980 sc_process.py:183] Killing the process.
+I0319 14:49:44.824713 32980 sc_process.py:166] Shutdown with return code: 1
+I0319 14:49:47.250842 17224 sc2_env.py:240] Starting episode: 39
+I0319 14:50:19.720261 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5905]
+I0319 14:50:25.589911 17224 sc2_env.py:240] Starting episode: 40
+I0319 14:50:57.767053 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5961]
+I0319 14:51:03.571493 17224 sc2_env.py:240] Starting episode: 41
+I0319 14:51:55.323126 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6316]
+I0319 14:52:01.172079 17224 sc2_env.py:240] Starting episode: 42
+I0319 14:52:34.170564 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5087]
+I0319 14:52:40.027474 17224 sc2_env.py:240] Starting episode: 43
+I0319 14:54:08.328380 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [9461]
+I0319 14:54:14.380594 17224 sc2_env.py:240] Starting episode: 44
+I0319 14:54:59.177999 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5431]
+I0319 14:55:05.079558 17224 sc2_env.py:240] Starting episode: 45
+I0319 14:55:38.841318 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5713]
+I0319 14:55:44.528983 17224 sc2_env.py:240] Starting episode: 46
+I0319 14:56:38.313826 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [9334]
+I0319 14:56:44.346808 17224 sc2_env.py:240] Starting episode: 47
+I0319 14:57:17.439059 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7265]
+I0319 14:57:23.261278 17224 sc2_env.py:240] Starting episode: 48
+I0319 14:57:55.057543 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6609]
+I0319 14:58:00.976985 17224 sc2_env.py:240] Starting episode: 49
+I0319 14:58:41.085651 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3959]
+I0319 14:58:47.421819 17224 sc2_env.py:240] Starting episode: 50
+I0319 14:59:23.500466 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6740]
+I0319 14:59:29.781682 17224 sc2_env.py:240] Starting episode: 51
+I0319 15:00:06.522380 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5921]
+I0319 15:00:12.802588 17224 sc2_env.py:240] Starting episode: 52
+I0319 15:00:50.219296 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7050]
+I0319 15:00:56.625067 17224 sc2_env.py:240] Starting episode: 53
+I0319 15:02:29.862308 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [5039]
+I0319 15:02:36.024296 17224 sc2_env.py:240] Starting episode: 54
+I0319 15:04:06.309153 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [6448]
+I0319 15:04:12.850406 17224 sc2_env.py:240] Starting episode: 55
+I0319 15:04:41.115963 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5481]
+I0319 15:04:46.884930 17224 sc2_env.py:240] Starting episode: 56
+I0319 15:06:13.930641 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6048]
+I0319 15:06:20.656635 17224 sc2_env.py:240] Starting episode: 57
+I0319 15:07:07.266766 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5491]
+I0319 15:07:13.614036 17224 sc2_env.py:240] Starting episode: 58
+I0319 15:08:08.640650 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10895]
+I0319 15:08:15.442476 17224 sc2_env.py:240] Starting episode: 59
+I0319 15:08:51.499049 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6890]
+I0319 15:08:58.229499 17224 sc2_env.py:240] Starting episode: 60
+I0319 15:09:22.739276 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5280]
+I0319 15:09:28.704083 17224 sc2_env.py:240] Starting episode: 61
+I0319 15:10:04.738750 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6867]
+I0319 15:10:11.127169 17224 sc2_env.py:240] Starting episode: 62
+I0319 15:11:39.047236 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [1686]
+I0319 15:11:45.324136 17224 sc2_env.py:240] Starting episode: 63
+I0319 15:13:01.892882 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4051]
+I0319 15:13:08.693072 17224 sc2_env.py:240] Starting episode: 64
+I0319 15:13:47.823884 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4510]
+I0319 15:13:53.729080 17224 sc2_env.py:240] Starting episode: 65
+I0319 15:14:30.026009 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6758]
+I0319 15:14:36.347290 17224 sc2_env.py:240] Starting episode: 66
+I0319 15:15:03.995539 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4947]
+I0319 15:15:10.007701 17224 sc2_env.py:240] Starting episode: 67
+I0319 15:15:36.989332 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4730]
+I0319 15:15:42.853648 17224 sc2_env.py:240] Starting episode: 68
+I0319 15:17:11.497305 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4683]
+I0319 15:17:17.426764 17224 sc2_env.py:240] Starting episode: 69
+I0319 15:17:59.434391 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4785]
+I0319 15:18:06.068092 17224 sc2_env.py:240] Starting episode: 70
+I0319 15:19:07.634243 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8025]
+I0319 15:19:14.017473 17224 sc2_env.py:240] Starting episode: 71
+I0319 15:20:19.356917 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [11216]
+I0319 15:20:25.800677 17224 sc2_env.py:240] Starting episode: 72
+I0319 15:20:58.364057 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4045]
+I0319 15:21:04.950208 17224 sc2_env.py:240] Starting episode: 73
+I0319 15:21:47.079420 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5270]
+I0319 15:21:53.655158 17224 sc2_env.py:240] Starting episode: 74
+I0319 15:22:46.842856 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7799]
+I0319 15:22:53.099908 17224 sc2_env.py:240] Starting episode: 75
+I0319 15:23:41.209776 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8699]
+I0319 15:23:47.122323 17224 sc2_env.py:240] Starting episode: 76
+I0319 15:24:18.160218 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5008]
+I0319 15:24:23.903746 17224 sc2_env.py:240] Starting episode: 77
+I0319 15:25:52.772185 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [6845]
+I0319 15:25:58.711307 17224 sc2_env.py:240] Starting episode: 78
+I0319 15:26:31.229184 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6293]
+I0319 15:26:37.171962 17224 sc2_env.py:240] Starting episode: 79
+I0319 15:27:09.181676 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5262]
+I0319 15:27:15.253025 17224 sc2_env.py:240] Starting episode: 80
+I0319 15:27:43.783751 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5057]
+I0319 15:27:50.126553 17224 sc2_env.py:240] Starting episode: 81
+I0319 15:28:28.251188 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3743]
+I0319 15:28:34.597449 17224 sc2_env.py:240] Starting episode: 82
+I0319 15:29:08.594600 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5623]
+I0319 15:29:14.998139 17224 sc2_env.py:240] Starting episode: 83
+I0319 15:30:40.284523 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7882]
+I0319 15:30:46.833060 17224 sc2_env.py:240] Starting episode: 84
+I0319 15:32:18.088521 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [4960]
+I0319 15:32:24.098325 17224 sc2_env.py:240] Starting episode: 85
+I0319 15:33:48.598065 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5292]
+I0319 15:33:54.579934 17224 sc2_env.py:240] Starting episode: 86
+I0319 15:34:27.751914 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6213]
+I0319 15:34:33.727491 17224 sc2_env.py:240] Starting episode: 87
+I0319 15:35:16.734265 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8982]
+I0319 15:35:22.807375 17224 sc2_env.py:240] Starting episode: 88
+I0319 15:35:55.089188 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6944]
+I0319 15:36:00.964725 17224 sc2_env.py:240] Starting episode: 89
+I0319 15:36:33.678860 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5323]
+I0319 15:36:39.594300 17224 sc2_env.py:240] Starting episode: 90
+I0319 15:37:23.426568 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2834]
+I0319 15:37:29.375791 17224 sc2_env.py:240] Starting episode: 91
+I0319 15:38:57.874845 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [6015]
+I0319 15:39:03.883309 17224 sc2_env.py:240] Starting episode: 92
+I0319 15:39:34.512514 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7103]
+I0319 15:39:40.478950 17224 sc2_env.py:240] Starting episode: 93
+I0319 15:40:20.985029 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3846]
+I0319 15:40:27.039513 17224 sc2_env.py:240] Starting episode: 94
+I0319 15:41:00.748649 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5351]
+I0319 15:41:06.946593 17224 sc2_env.py:240] Starting episode: 95
+I0319 15:42:33.762876 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [7282]
+I0319 15:42:39.820505 17224 sc2_env.py:240] Starting episode: 96
+I0319 15:43:07.153856 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6065]
+I0319 15:43:13.002475 17224 sc2_env.py:240] Starting episode: 97
+I0319 15:43:43.996893 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4388]
+I0319 15:43:49.690811 17224 sc2_env.py:240] Starting episode: 98
+I0319 15:45:05.075722 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4890]
+I0319 15:45:11.241033 17224 sc2_env.py:240] Starting episode: 99
+I0319 15:45:35.560558 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5264]
+I0319 15:45:41.376046 17224 sc2_env.py:240] Starting episode: 100
+I0319 15:47:14.969061 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5613]
+I0319 15:47:22.701585 17224 sc2_env.py:240] Starting episode: 101
+I0319 15:47:49.161053 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4920]
+I0319 15:47:55.368025 17224 sc2_env.py:240] Starting episode: 102
+I0319 15:48:23.534919 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [5369]
+I0319 15:48:29.327187 17224 sc2_env.py:240] Starting episode: 103
+I0319 15:48:56.022791 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4655]
+I0319 15:49:02.052565 17224 sc2_env.py:240] Starting episode: 104
+I0319 15:49:25.452270 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4803]
+I0319 15:49:31.033454 17224 sc2_env.py:240] Starting episode: 105
+I0319 15:50:19.339289 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4974]
+I0319 15:50:26.153033 17224 sc2_env.py:240] Starting episode: 106
+I0319 15:50:53.868256 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4027]
+I0319 15:50:59.534515 17224 sc2_env.py:240] Starting episode: 107
+I0319 15:51:32.450119 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4166]
+I0319 15:51:38.596962 17224 sc2_env.py:240] Starting episode: 108
+I0319 15:52:08.168445 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6154]
+I0319 15:52:13.942555 17224 sc2_env.py:240] Starting episode: 109
+I0319 15:52:41.078484 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4663]
+I0319 15:52:46.890468 17224 sc2_env.py:240] Starting episode: 110
+I0319 15:53:19.579503 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6014]
+I0319 15:53:25.480440 17224 sc2_env.py:240] Starting episode: 111
+I0319 15:54:44.582193 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4029]
+I0319 15:54:50.755369 17224 sc2_env.py:240] Starting episode: 112
+I0319 15:55:20.855870 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3849]
+I0319 15:55:27.170023 17224 sc2_env.py:240] Starting episode: 113
+I0319 15:56:53.253690 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [6400]
+I0319 15:56:59.426184 17224 sc2_env.py:240] Starting episode: 114
+I0319 15:57:44.236321 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4560]
+I0319 15:57:50.120295 17224 sc2_env.py:240] Starting episode: 115
+I0319 15:59:14.697886 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [5492]
+I0319 15:59:20.750139 17224 sc2_env.py:240] Starting episode: 116
+I0319 15:59:54.436793 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5132]
+I0319 16:00:00.493278 17224 sc2_env.py:240] Starting episode: 117
+I0319 16:00:50.859165 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3742]
+I0319 16:00:56.933889 17224 sc2_env.py:240] Starting episode: 118
+I0319 16:01:55.257849 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8079]
+I0319 16:02:01.804095 17224 sc2_env.py:240] Starting episode: 119
+I0319 16:02:42.135336 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6312]
+I0319 16:02:48.013973 17224 sc2_env.py:240] Starting episode: 120
+I0319 16:04:08.743053 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7058]
+I0319 16:04:14.691743 17224 sc2_env.py:240] Starting episode: 121
+I0319 16:04:56.924207 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4641]
+I0319 16:05:02.663478 17224 sc2_env.py:240] Starting episode: 122
+I0319 16:05:23.786456 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5779]
+I0319 16:05:29.474536 17224 sc2_env.py:240] Starting episode: 123
+I0319 16:05:57.749322 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4840]
+I0319 16:06:03.414818 17224 sc2_env.py:240] Starting episode: 124
+I0319 16:06:43.029954 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6241]
+I0319 16:06:48.840287 17224 sc2_env.py:240] Starting episode: 125
+I0319 16:07:35.936643 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5030]
+I0319 16:07:42.134001 17224 sc2_env.py:240] Starting episode: 126
+I0319 16:08:36.968068 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3053]
+I0319 16:08:43.110493 17224 sc2_env.py:240] Starting episode: 127
+I0319 16:09:16.062796 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5750]
+I0319 16:09:22.015138 17224 sc2_env.py:240] Starting episode: 128
+I0319 16:10:49.962162 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5408]
+I0319 16:10:56.405817 17224 sc2_env.py:240] Starting episode: 129
+I0319 16:11:36.084219 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4624]
+I0319 16:11:42.208671 17224 sc2_env.py:240] Starting episode: 130
+I0319 16:12:17.308209 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5594]
+I0319 16:12:23.282920 17224 sc2_env.py:240] Starting episode: 131
+I0319 16:13:59.228231 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [9646]
+I0319 16:14:05.347482 17224 sc2_env.py:240] Starting episode: 132
+I0319 16:15:33.522201 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5421]
+I0319 16:15:39.567382 17224 sc2_env.py:240] Starting episode: 133
+I0319 16:16:18.523678 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3738]
+I0319 16:16:24.509932 17224 sc2_env.py:240] Starting episode: 134
+I0319 16:16:58.771334 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4936]
+I0319 16:17:04.857244 17224 sc2_env.py:240] Starting episode: 135
+I0319 16:17:51.460290 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10207]
+I0319 16:17:57.566238 17224 sc2_env.py:240] Starting episode: 136
+I0319 16:19:08.751233 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2632]
+I0319 16:19:14.969558 17224 sc2_env.py:240] Starting episode: 137
+I0319 16:19:48.854266 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7124]
+I0319 16:19:54.701223 17224 sc2_env.py:240] Starting episode: 138
+I0319 16:21:14.862994 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8426]
+I0319 16:21:21.001340 17224 sc2_env.py:240] Starting episode: 139
+I0319 16:22:06.858156 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6119]
+I0319 16:22:12.990844 17224 sc2_env.py:240] Starting episode: 140
+I0319 16:23:11.119445 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5492]
+I0319 16:23:17.343409 17224 sc2_env.py:240] Starting episode: 141
+I0319 16:24:46.966695 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [5895]
+I0319 16:24:53.077522 17224 sc2_env.py:240] Starting episode: 142
+I0319 16:25:24.419421 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4421]
+I0319 16:25:30.521239 17224 sc2_env.py:240] Starting episode: 143
+I0319 16:26:08.224627 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6475]
+I0319 16:26:14.284519 17224 sc2_env.py:240] Starting episode: 144
+I0319 16:26:46.705486 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3583]
+I0319 16:26:52.526831 17224 sc2_env.py:240] Starting episode: 145
+I0319 16:27:20.132259 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5510]
+I0319 16:27:26.076613 17224 sc2_env.py:240] Starting episode: 146
+I0319 16:28:36.100882 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8907]
+I0319 16:28:42.100986 17224 sc2_env.py:240] Starting episode: 147
+I0319 16:29:31.094387 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [9172]
+I0319 16:29:37.297213 17224 sc2_env.py:240] Starting episode: 148
+I0319 16:30:10.314020 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4645]
+I0319 16:30:16.692515 17224 sc2_env.py:240] Starting episode: 149
+I0319 16:31:51.118710 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [7194]
+I0319 16:31:57.423434 17224 sc2_env.py:240] Starting episode: 150
+I0319 16:33:05.089934 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5005]
+I0319 16:33:11.556482 17224 sc2_env.py:240] Starting episode: 151
+I0319 16:33:45.951627 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6008]
+I0319 16:33:51.827260 17224 sc2_env.py:240] Starting episode: 152
+I0319 16:34:34.980906 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7192]
+I0319 16:34:40.987651 17224 sc2_env.py:240] Starting episode: 153
+I0319 16:35:17.930981 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7619]
+I0319 16:35:23.774837 17224 sc2_env.py:240] Starting episode: 154
+I0319 16:35:54.878841 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4771]
+I0319 16:36:00.979779 17224 sc2_env.py:240] Starting episode: 155
+I0319 16:37:31.380326 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7913]
+I0319 16:37:37.806292 17224 sc2_env.py:240] Starting episode: 156
+I0319 16:39:05.661998 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [9747]
+I0319 16:39:11.988174 17224 sc2_env.py:240] Starting episode: 157
+I0319 16:40:06.936912 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6053]
+I0319 16:40:13.045675 17224 sc2_env.py:240] Starting episode: 158
+I0319 16:40:51.007017 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4763]
+I0319 16:40:57.232917 17224 sc2_env.py:240] Starting episode: 159
+I0319 16:41:45.456706 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8250]
+I0319 16:41:51.619721 17224 sc2_env.py:240] Starting episode: 160
+I0319 16:42:30.059495 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4610]
+I0319 16:42:36.375353 17224 sc2_env.py:240] Starting episode: 161
+I0319 16:43:17.237418 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5112]
+I0319 16:43:23.242752 17224 sc2_env.py:240] Starting episode: 162
+I0319 16:44:03.452805 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4508]
+I0319 16:44:09.470088 17224 sc2_env.py:240] Starting episode: 163
+I0319 16:44:37.020874 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4979]
+I0319 16:44:43.370949 17224 sc2_env.py:240] Starting episode: 164
+I0319 16:45:28.109223 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6766]
+I0319 16:45:33.837672 17224 sc2_env.py:240] Starting episode: 165
+I0319 16:46:25.390611 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10053]
+I0319 16:46:31.609436 17224 sc2_env.py:240] Starting episode: 166
+I0319 16:47:01.606196 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6146]
+I0319 16:47:07.698375 17224 sc2_env.py:240] Starting episode: 167
+I0319 16:47:56.738267 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6422]
+I0319 16:48:02.535238 17224 sc2_env.py:240] Starting episode: 168
+I0319 16:49:16.236403 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4655]
+I0319 16:49:22.492586 17224 sc2_env.py:240] Starting episode: 169
+I0319 16:49:56.108495 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [7381]
+I0319 16:50:02.392571 17224 sc2_env.py:240] Starting episode: 170
+I0319 16:51:10.863058 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8261]
+I0319 16:51:16.999956 17224 sc2_env.py:240] Starting episode: 171
+I0319 16:51:49.153503 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4559]
+I0319 16:51:55.378092 17224 sc2_env.py:240] Starting episode: 172
+I0319 16:52:34.878751 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4715]
+I0319 16:52:40.884863 17224 sc2_env.py:240] Starting episode: 173
+I0319 16:53:19.178875 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5670]
+I0319 16:53:25.095594 17224 sc2_env.py:240] Starting episode: 174
+I0319 16:54:01.406711 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4706]
+I0319 16:54:07.326864 17224 sc2_env.py:240] Starting episode: 175
+I0319 16:54:38.663614 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5217]
+I0319 16:54:44.716320 17224 sc2_env.py:240] Starting episode: 176
+I0319 16:55:18.670927 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4710]
+I0319 16:55:24.507320 17224 sc2_env.py:240] Starting episode: 177
+I0319 16:56:08.586876 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4879]
+I0319 16:56:14.753689 17224 sc2_env.py:240] Starting episode: 178
+I0319 16:56:53.832211 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3610]
+I0319 16:56:59.795060 17224 sc2_env.py:240] Starting episode: 179
+I0319 16:57:33.706248 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5722]
+I0319 16:57:39.665234 17224 sc2_env.py:240] Starting episode: 180
+I0319 16:58:18.187009 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6096]
+I0319 16:58:24.361746 17224 sc2_env.py:240] Starting episode: 181
+I0319 16:59:11.032414 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7539]
+I0319 16:59:17.252073 17224 sc2_env.py:240] Starting episode: 182
+I0319 16:59:41.638458 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4843]
+I0319 16:59:47.796609 17224 sc2_env.py:240] Starting episode: 183
+I0319 17:01:07.172396 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7079]
+I0319 17:01:13.357953 17224 sc2_env.py:240] Starting episode: 184
+I0319 17:01:55.638608 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8907]
+I0319 17:02:01.776671 17224 sc2_env.py:240] Starting episode: 185
+I0319 17:02:32.381590 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4440]
+I0319 17:02:38.263460 17224 sc2_env.py:240] Starting episode: 186
+I0319 17:03:12.798170 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [9092]
+I0319 17:03:18.879564 17224 sc2_env.py:240] Starting episode: 187
+I0319 17:03:55.488126 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6132]
+I0319 17:04:01.703254 17224 sc2_env.py:240] Starting episode: 188
+I0319 17:04:41.901184 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6988]
+I0319 17:04:48.072357 17224 sc2_env.py:240] Starting episode: 189
+I0319 17:06:26.334097 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [5527]
+I0319 17:06:32.835705 17224 sc2_env.py:240] Starting episode: 190
+I0319 17:07:05.525337 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4656]
+I0319 17:07:11.655433 17224 sc2_env.py:240] Starting episode: 191
+I0319 17:07:36.121904 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4488]
+I0319 17:07:42.081740 17224 sc2_env.py:240] Starting episode: 192
+I0319 17:08:40.681529 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6396]
+I0319 17:08:46.977054 17224 sc2_env.py:240] Starting episode: 193
+I0319 17:09:18.028948 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4861]
+I0319 17:09:23.934238 17224 sc2_env.py:240] Starting episode: 194
+I0319 17:10:09.963098 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8107]
+I0319 17:10:15.846535 17224 sc2_env.py:240] Starting episode: 195
+I0319 17:10:46.194189 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6045]
+I0319 17:10:52.071664 17224 sc2_env.py:240] Starting episode: 196
+I0319 17:11:29.014113 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6643]
+I0319 17:11:35.027292 17224 sc2_env.py:240] Starting episode: 197
+I0319 17:12:14.856973 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5232]
+I0319 17:12:20.895195 17224 sc2_env.py:240] Starting episode: 198
+I0319 17:12:48.801818 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5800]
+I0319 17:12:55.010472 17224 sc2_env.py:240] Starting episode: 199
+I0319 17:13:28.952807 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5088]
+I0319 17:13:35.082634 17224 sc2_env.py:240] Starting episode: 200
+I0319 17:14:21.309025 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4897]
+I0319 17:14:27.783172 17224 sc2_env.py:240] Starting episode: 201
+I0319 17:15:10.809498 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5519]
+I0319 17:15:17.278307 17224 sc2_env.py:240] Starting episode: 202
+I0319 17:15:53.126600 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5643]
+I0319 17:15:59.157030 17224 sc2_env.py:240] Starting episode: 203
+I0319 17:16:37.532317 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5965]
+I0319 17:16:43.672132 17224 sc2_env.py:240] Starting episode: 204
+I0319 17:17:15.729732 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5983]
+I0319 17:17:21.834304 17224 sc2_env.py:240] Starting episode: 205
+I0319 17:17:46.779348 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4802]
+I0319 17:17:52.966876 17224 sc2_env.py:240] Starting episode: 206
+I0319 17:19:02.028721 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10004]
+I0319 17:19:08.245904 17224 sc2_env.py:240] Starting episode: 207
+I0319 17:20:39.845450 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2403]
+I0319 17:20:46.255526 17224 sc2_env.py:240] Starting episode: 208
+I0319 17:21:35.489566 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8770]
+I0319 17:21:41.571812 17224 sc2_env.py:240] Starting episode: 209
+I0319 17:22:15.484478 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5398]
+I0319 17:22:21.532215 17224 sc2_env.py:240] Starting episode: 210
+I0319 17:23:42.619165 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [10410]
+I0319 17:23:48.878558 17224 sc2_env.py:240] Starting episode: 211
+I0319 17:25:12.199023 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [6036]
+I0319 17:25:18.300881 17224 sc2_env.py:240] Starting episode: 212
+I0319 17:26:09.209887 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2310]
+I0319 17:26:15.262733 17224 sc2_env.py:240] Starting episode: 213
+I0319 17:26:44.503297 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4947]
+I0319 17:26:50.732332 17224 sc2_env.py:240] Starting episode: 214
+I0319 17:27:25.246872 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4367]
+I0319 17:27:31.293039 17224 sc2_env.py:240] Starting episode: 215
+I0319 17:28:08.116856 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5067]
+I0319 17:28:14.132776 17224 sc2_env.py:240] Starting episode: 216
+I0319 17:29:05.160166 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7442]
+I0319 17:29:11.188186 17224 sc2_env.py:240] Starting episode: 217
+I0319 17:29:37.439590 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5393]
+I0319 17:29:43.442821 17224 sc2_env.py:240] Starting episode: 218
+I0319 17:30:14.132305 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5245]
+I0319 17:30:20.312259 17224 sc2_env.py:240] Starting episode: 219
+I0319 17:30:54.490692 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5967]
+I0319 17:31:00.847797 17224 sc2_env.py:240] Starting episode: 220
+I0319 17:31:34.389945 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5328]
+I0319 17:31:40.365844 17224 sc2_env.py:240] Starting episode: 221
+I0319 17:32:09.520553 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5599]
+I0319 17:32:15.537021 17224 sc2_env.py:240] Starting episode: 222
+I0319 17:32:48.623682 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4235]
+I0319 17:32:54.856228 17224 sc2_env.py:240] Starting episode: 223
+I0319 17:33:32.555880 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4902]
+I0319 17:33:38.707139 17224 sc2_env.py:240] Starting episode: 224
+I0319 17:34:07.785733 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5072]
+I0319 17:34:13.815006 17224 sc2_env.py:240] Starting episode: 225
+I0319 17:34:49.215461 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7392]
+I0319 17:34:55.234810 17224 sc2_env.py:240] Starting episode: 226
+I0319 17:35:21.061817 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4726]
+I0319 17:35:27.338649 17224 sc2_env.py:240] Starting episode: 227
+I0319 17:35:58.944784 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4932]
+I0319 17:36:05.034227 17224 sc2_env.py:240] Starting episode: 228
+I0319 17:36:40.233788 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6622]
+I0319 17:36:46.290294 17224 sc2_env.py:240] Starting episode: 229
+I0319 17:37:31.711464 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4303]
+I0319 17:37:38.028265 17224 sc2_env.py:240] Starting episode: 230
+I0319 17:38:18.794600 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5339]
+I0319 17:38:24.997079 17224 sc2_env.py:240] Starting episode: 231
+I0319 17:39:45.135080 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8927]
+I0319 17:39:51.069707 17224 sc2_env.py:240] Starting episode: 232
+I0319 17:40:28.191011 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6398]
+I0319 17:40:34.060900 17224 sc2_env.py:240] Starting episode: 233
+I0319 17:41:02.576720 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4809]
+I0319 17:41:08.587626 17224 sc2_env.py:240] Starting episode: 234
+I0319 17:41:44.504093 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5947]
+I0319 17:41:50.560106 17224 sc2_env.py:240] Starting episode: 235
+I0319 17:43:05.854084 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8224]
+I0319 17:43:11.773244 17224 sc2_env.py:240] Starting episode: 236
+I0319 17:43:41.485681 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4721]
+I0319 17:43:47.388033 17224 sc2_env.py:240] Starting episode: 237
+I0319 17:44:18.349501 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5189]
+I0319 17:44:24.287484 17224 sc2_env.py:240] Starting episode: 238
+I0319 17:45:43.922814 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5928]
+I0319 17:45:49.957582 17224 sc2_env.py:240] Starting episode: 239
+I0319 17:46:26.001996 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4449]
+I0319 17:46:31.904870 17224 sc2_env.py:240] Starting episode: 240
+I0319 17:47:01.529547 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5997]
+I0319 17:47:07.477182 17224 sc2_env.py:240] Starting episode: 241
+I0319 17:48:25.415507 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6550]
+I0319 17:48:31.647266 17224 sc2_env.py:240] Starting episode: 242
+I0319 17:49:59.135236 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [5289]
+I0319 17:50:05.241986 17224 sc2_env.py:240] Starting episode: 243
+I0319 17:50:49.061444 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6770]
+I0319 17:50:55.232641 17224 sc2_env.py:240] Starting episode: 244
+I0319 17:51:31.813450 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4141]
+I0319 17:51:37.787933 17224 sc2_env.py:240] Starting episode: 245
+I0319 17:52:13.226125 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5831]
+I0319 17:52:19.191427 17224 sc2_env.py:240] Starting episode: 246
+I0319 17:52:48.651140 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4692]
+I0319 17:52:54.648782 17224 sc2_env.py:240] Starting episode: 247
+I0319 17:53:23.249462 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5914]
+I0319 17:53:29.092288 17224 sc2_env.py:240] Starting episode: 248
+I0319 17:54:03.132499 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5131]
+I0319 17:54:09.050872 17224 sc2_env.py:240] Starting episode: 249
+I0319 17:54:31.892890 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5230]
+I0319 17:54:37.821835 17224 sc2_env.py:240] Starting episode: 250
+I0319 17:55:11.390785 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6441]
+I0319 17:55:17.486018 17224 sc2_env.py:240] Starting episode: 251
+I0319 17:56:00.976665 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6856]
+I0319 17:56:06.979666 17224 sc2_env.py:240] Starting episode: 252
+I0319 17:56:37.160608 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7215]
+I0319 17:56:43.176624 17224 sc2_env.py:240] Starting episode: 253
+I0319 17:57:59.771094 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8560]
+I0319 17:58:06.155827 17224 sc2_env.py:240] Starting episode: 254
+I0319 17:58:35.396785 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5521]
+I0319 17:58:41.406193 17224 sc2_env.py:240] Starting episode: 255
+I0319 17:59:28.434852 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6413]
+I0319 17:59:34.755207 17224 sc2_env.py:240] Starting episode: 256
+I0319 18:00:07.733444 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4542]
+I0319 18:00:13.703687 17224 sc2_env.py:240] Starting episode: 257
+I0319 18:01:10.136515 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [5609]
+I0319 18:01:16.314289 17224 sc2_env.py:240] Starting episode: 258
+I0319 18:01:48.017466 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6367]
+I0319 18:01:53.974251 17224 sc2_env.py:240] Starting episode: 259
+I0319 18:02:33.607968 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7233]
+I0319 18:02:39.536177 17224 sc2_env.py:240] Starting episode: 260
+I0319 18:03:06.613469 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5225]
+I0319 18:03:12.746079 17224 sc2_env.py:240] Starting episode: 261
+I0319 18:03:42.162872 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4723]
+I0319 18:03:48.154989 17224 sc2_env.py:240] Starting episode: 262
+I0319 18:04:24.407746 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5961]
+I0319 18:04:30.508250 17224 sc2_env.py:240] Starting episode: 263
+I0319 18:05:59.114333 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [5290]
+I0319 18:06:05.522381 17224 sc2_env.py:240] Starting episode: 264
+I0319 18:06:39.100135 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6664]
+I0319 18:06:45.063683 17224 sc2_env.py:240] Starting episode: 265
+I0319 18:08:01.413856 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7588]
+I0319 18:08:07.449857 17224 sc2_env.py:240] Starting episode: 266
+I0319 18:08:42.213665 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5196]
+I0319 18:08:48.211440 17224 sc2_env.py:240] Starting episode: 267
+I0319 18:10:10.017780 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [2560]
+I0319 18:10:16.230960 17224 sc2_env.py:240] Starting episode: 268
+I0319 18:10:53.267461 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5553]
+I0319 18:10:59.337453 17224 sc2_env.py:240] Starting episode: 269
+I0319 18:11:40.378000 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4199]
+I0319 18:11:46.654917 17224 sc2_env.py:240] Starting episode: 270
+I0319 18:12:53.838262 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3024]
+I0319 18:12:59.723184 17224 sc2_env.py:240] Starting episode: 271
+I0319 18:13:35.418878 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6644]
+I0319 18:13:41.539628 17224 sc2_env.py:240] Starting episode: 272
+I0319 18:14:35.574873 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10148]
+I0319 18:14:41.431348 17224 sc2_env.py:240] Starting episode: 273
+I0319 18:15:39.493067 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [10756]
+I0319 18:15:45.325666 17224 sc2_env.py:240] Starting episode: 274
+I0319 18:16:56.090017 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7693]
+I0319 18:17:02.165540 17224 sc2_env.py:240] Starting episode: 275
+I0319 18:18:32.489165 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6635]
+I0319 18:18:38.709951 17224 sc2_env.py:240] Starting episode: 276
+I0319 18:19:48.785045 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [11251]
+I0319 18:19:54.966679 17224 sc2_env.py:240] Starting episode: 277
+I0319 18:20:31.281599 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5631]
+I0319 18:20:37.452461 17224 sc2_env.py:240] Starting episode: 278
+I0319 18:21:44.444116 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [7874]
+I0319 18:21:50.607714 17224 sc2_env.py:240] Starting episode: 279
+I0319 18:22:37.845028 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5563]
+I0319 18:22:43.958527 17224 sc2_env.py:240] Starting episode: 280
+I0319 18:23:21.890019 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8973]
+I0319 18:23:28.023488 17224 sc2_env.py:240] Starting episode: 281
+I0319 18:24:13.222209 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [9302]
+I0319 18:24:19.200790 17224 sc2_env.py:240] Starting episode: 282
+I0319 18:24:49.244272 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [5620]
+I0319 18:24:55.442979 17224 sc2_env.py:240] Starting episode: 283
+I0319 18:25:44.423126 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4761]
+I0319 18:25:50.411623 17224 sc2_env.py:240] Starting episode: 284
+I0319 18:26:23.110348 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5716]
+I0319 18:26:29.104228 17224 sc2_env.py:240] Starting episode: 285
+I0319 18:27:13.933736 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4711]
+I0319 18:27:19.957313 17224 sc2_env.py:240] Starting episode: 286
+I0319 18:28:46.990416 17224 sc2_env.py:310] Episode finished. Outcome: [0], reward: [0], score: [7629]
+I0319 18:28:53.230463 17224 sc2_env.py:240] Starting episode: 287
+I0319 18:29:41.608889 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4610]
+I0319 18:29:47.581237 17224 sc2_env.py:240] Starting episode: 288
+I0319 18:30:20.249493 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4026]
+I0319 18:30:26.506265 17224 sc2_env.py:240] Starting episode: 289
+I0319 18:30:58.759166 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4206]
+I0319 18:31:04.782532 17224 sc2_env.py:240] Starting episode: 290
+I0319 18:31:44.706808 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4479]
+I0319 18:31:50.948474 17224 sc2_env.py:240] Starting episode: 291
+I0319 18:32:39.809206 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4508]
+I0319 18:32:45.820600 17224 sc2_env.py:240] Starting episode: 292
+I0319 18:33:29.624911 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6712]
+I0319 18:33:35.656820 17224 sc2_env.py:240] Starting episode: 293
+I0319 18:34:02.550017 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5434]
+I0319 18:34:08.625790 17224 sc2_env.py:240] Starting episode: 294
+I0319 18:34:37.056838 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5281]
+I0319 18:34:43.101492 17224 sc2_env.py:240] Starting episode: 295
+I0319 18:35:45.135047 17224 sc2_env.py:310] Episode finished. Outcome: [1], reward: [1], score: [8395]
+I0319 18:35:51.104741 17224 sc2_env.py:240] Starting episode: 296
+I0319 18:36:17.588327 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6157]
+I0319 18:36:23.586984 17224 sc2_env.py:240] Starting episode: 297
+I0319 18:36:55.345282 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4382]
+I0319 18:37:01.356130 17224 sc2_env.py:240] Starting episode: 298
+I0319 18:38:12.979048 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [8195]
+I0319 18:38:19.386813 17224 sc2_env.py:240] Starting episode: 299
+I0319 18:38:55.839948 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6327]
+I0319 18:39:01.912070 17224 sc2_env.py:240] Starting episode: 300
+I0319 18:39:40.539603 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [3604]
+I0319 18:39:46.707119 17224 sc2_env.py:240] Starting episode: 301
+I0319 18:40:15.543594 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4721]
+I0319 18:40:21.772261 17224 sc2_env.py:240] Starting episode: 302
+I0319 18:41:00.498467 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6096]
+I0319 18:41:06.464862 17224 sc2_env.py:240] Starting episode: 303
+I0319 18:41:45.791683 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6328]
+I0319 18:41:51.940938 17224 sc2_env.py:240] Starting episode: 304
+I0319 18:42:25.504414 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [4403]
+I0319 18:42:31.574618 17224 sc2_env.py:240] Starting episode: 305
+I0319 18:42:56.665325 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [5475]
+I0319 18:43:02.568753 17224 sc2_env.py:240] Starting episode: 306
+I0319 18:43:24.950482 17224 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [6769]
+I0319 18:43:27.423582 17224 sc2_env.py:327] Environment Close
+I0319 18:43:27.424082 17224 sc2_env.py:342] 
+Exception in thread Thread-9:
+Traceback (most recent call last):
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\protocol.py", line 61, in catch_websocket_connection_errors
+    yield
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_core.py", line 300, in recv
+    opcode, data = self.recv_data()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_core.py", line 317, in recv_data
+    opcode, frame = self.recv_data_frame(control_frame)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_core.py", line 330, in recv_data_frame
+    frame = self.recv_frame()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_core.py", line 364, in recv_frame
+    return self.frame_buffer.recv_frame()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_abnf.py", line 361, in recv_frame
+    self.recv_header()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_abnf.py", line 309, in recv_header
+    header = self.recv_strict(2)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_abnf.py", line 396, in recv_strict
+    bytes_ = self.recv(min(16384, shortage))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_core.py", line 434, in _recv
+    return recv(self.sock, bufsize)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\websocket\_socket.py", line 94, in recv
+    "Connection is already closed.")
+websocket._exceptions.WebSocketConnectionClosedException: Connection is already closed.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 916, in _bootstrap_inner
+    self.run()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 864, in run
+    self._target(*self._args, **self._kwargs)
+  File "agent.py", line 61, in run_thread
+    run_loop.run_loop([agent], env, FLAGS.max_agent_steps)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\run_loop.py", line 35, in run_loop
+    timesteps = env.reset()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\base_env_wrapper.py", line 39, in reset
+    return self._env.reset(*args, **kwargs)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\sc2_env.py", line 237, in reset
+    self._restart()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\env\sc2_env.py", line 229, in _restart
+    self._controllers[0].restart()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\remote_controller.py", line 80, in _valid_status
+    return func(self, *args, **kwargs)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\remote_controller.py", line 55, in _check_error
+    return check_error(func(*args, **kwargs), error_enum)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\remote_controller.py", line 127, in restart
+    return self._client.send(restart_game=sc_pb.RequestRestartGame())
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\protocol.py", line 127, in send
+    res = self.send_req(sc_pb.Request(**kwargs))
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\protocol.py", line 113, in send_req
+    return self.read()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\stopwatch.py", line 197, in _stopwatch
+    return func(*args, **kwargs)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\protocol.py", line 86, in read
+    response = self._read()
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\protocol.py", line 152, in _read
+    response_str = self._sock.recv()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\contextlib.py", line 99, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "C:\Users\B08613\venv\pysc2-tutorial\lib\site-packages\pysc2\lib\protocol.py", line 63, in catch_websocket_connection_errors
+    raise ConnectionError("Connection already closed. SC2 probably crashed. "
+pysc2.lib.protocol.ConnectionError: Connection already closed. SC2 probably crashed. Check the error log.
+
+I0319 18:43:27.504741 17224 sc2_env.py:327] Environment Close
+I0319 18:43:27.505242 17224 sc2_env.py:342] 
+I0319 18:43:27.505242 17224 sc2_env.py:327] Environment Close
+I0319 18:43:27.505742 17224 sc2_env.py:342] 
+I0319 18:43:28.207793 17224 sc_process.py:180] Shutdown gracefully.
+I0319 18:43:28.207793 17224 sc_process.py:166] Shutdown with return code: 0
+Exception ignored in: <module 'threading' from 'D:\\Users\\B08613\\AppData\\Local\\Continuum\\anaconda3\\Lib\\threading.py'>
+Traceback (most recent call last):
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 1294, in _shutdown
+    t.join()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 1056, in join
+    self._wait_for_tstate_lock()
+  File "D:\Users\B08613\AppData\Local\Continuum\anaconda3\Lib\threading.py", line 1072, in _wait_for_tstate_lock
+    elif lock.acquire(block, timeout):
+KeyboardInterrupt
+I0319 18:43:28.266335 51644 sc2_env.py:327] Environment Close
+I0319 18:43:28.266335 51644 sc2_env.py:342] 
+I0319 18:43:28.266835 51644 sc2_env.py:327] Environment Close
+I0319 18:43:28.266835 51644 sc2_env.py:342] 
+I0319 18:43:28.266835 51644 sc_process.py:180] Shutdown gracefully.
+I0319 18:43:28.266835 51644 sc_process.py:166] Shutdown with return code: 0

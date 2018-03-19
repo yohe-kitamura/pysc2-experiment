@@ -41,6 +41,3 @@ while True:
     plt.show()
 
     time.sleep(60)
-
-    print("close")
-    plt.close()
