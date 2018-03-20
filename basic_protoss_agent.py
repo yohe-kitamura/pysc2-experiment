@@ -65,7 +65,7 @@ ACTION_ATTACK_BOTTOM_LEFT = 'attack_16_48'
 ACTION_ATTACK_BOTTOM_RIGHT = 'attack_43_53'
 
 smart_actions = [
-    ACTION_DO_NOTHING,
+    ACTION_ATTACK_TOP_RIGHT,
     ACTION_BUILD_PYLON,
     ACTION_TRAIN_PROBE,
     ACTION_BUILD_ASSIMILATOR,
@@ -76,7 +76,7 @@ smart_actions = [
     # ACTION_DIG_MINERAL,
     # ACTION_DIG_GASS,
     ACTION_ATTACK_TOP_LEFT,
-    ACTION_ATTACK_TOP_RIGHT,
+    ACTION_DO_NOTHING,
     ACTION_ATTACK_BOTTOM_LEFT,
     ACTION_ATTACK_BOTTOM_RIGHT
 ]
@@ -97,17 +97,16 @@ class BasicProtossAgent(base_agent.BaseAgent):
 
         self.qlearn = QLearningTable(actions=list(range(len(smart_actions))))
 
+        self.initialize()
+
+    def initialize(self):
         self.previous_action = None
         self.previous_state = None
-
         self.previous_killed_unit_score = 0
         self.previous_killed_building_score = 0
-
         self.nx_y = None
         self.nx_x = None
-
         self.memory = Memory()
-
         self.smart_action = None
         self.move = 0
         self.x = 0
@@ -150,7 +149,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
         unit_type = obs.observation['screen'][_UNIT_TYPE]
 
         if obs.first():
-
+            self.initialize();
             player_y, player_x = (obs.observation['minimap'][_PLAYER_RELATIVE] == _PLAYER_SELF).nonzero()
             self.base_top_left = 1 if player_y.any() and player_y.mean() <= 31 else 0
 
@@ -281,7 +280,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
                     return actions.FunctionCall(_BUILD_PYLON, [_NOT_QUEUED, target])
 
             elif _BUILD_GATEWAY in obs.observation['available_actions'] \
-                    and self.smart_action == ACTION_BUILD_GATEWAY and gw_count < 4:
+                    and self.smart_action == ACTION_BUILD_GATEWAY and gw_count < 4 and 0 < pylon_count:
                 unit_y, unit_x = (unit_type == OBJECTS.Pylon).nonzero()
                 if unit_y.any():
                     target = None
@@ -374,7 +373,7 @@ class BasicProtossAgent(base_agent.BaseAgent):
                     and (
                     len(obs.observation['multi_select']) != 0 and obs.observation['multi_select'][0][
                 0] != OBJECTS.Probe) \
-                    and _ATTACK_MINIMAP in obs.observation["available_actions"]:
+                    and _ATTACK_MINIMAP in obs.observation["available_actions"] and 0 < players.army_count:
 
                 target_y, target_x = (player_relative == 4).nonzero()
                 if target_y.any() and players.army_count > 5:

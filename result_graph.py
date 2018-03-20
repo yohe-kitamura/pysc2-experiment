@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time
 
-calculation_unit = 50
+calculation_unit = 20
 WIN = "1"
 LOOSE = "-1"
 
